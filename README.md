@@ -3,6 +3,6 @@
 
 
 ----------------------------------------------
-let g:ZFVimIM_pinyin_gitUserEmail='YourEmail'
-let g:ZFVimIM_pinyin_gitUserName='YourUserName'
-let g:ZFVimIM_pinyin_gitUserToken='YourGithubAccessToken'
+- let g:ZFVimIM_pinyin_gitUserEmail='YourEmail'
+- let g:ZFVimIM_pinyin_gitUserName='YourUserName'
+- let g:ZFVimIM_pinyin_gitUserToken='YourGithubAccessToken'
