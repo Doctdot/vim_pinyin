@@ -1,5 +1,5 @@
 # vim_pinyin
-##PinYin_db of PinYin
+## PinYin_db of PinYin
 
 
 ----------------------------------------------
